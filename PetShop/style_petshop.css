@@ -14,7 +14,7 @@ body {
 header {
     text-align: center;
     padding: 10px 0;
-    background-image: url('../img/fundo-topo.jpg');
+    background-image: url('Imagens/fundo-topo.jpg');
 }
 
 header h1 {
